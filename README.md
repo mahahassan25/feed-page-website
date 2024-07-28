@@ -5,7 +5,7 @@
 1. **Clone the Repository:**
 
   ```bash
-  git clone https://github.com/MalakNasser/KutubKhanah
+  git clone https://github.com/mahahassan25/feed-page-website.git
    ```
 
 2. **Navigate to the project directoryt:**
