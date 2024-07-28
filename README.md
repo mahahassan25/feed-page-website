@@ -1,3 +1,7 @@
+# feed page website
+
+Welcome to the GitHub repository for social media feed page. This project is a lightweight, fast, and easily navigable website built entirely with HTML, tailwind and ReactJS. Our goal is to provide an effortless online scrolling posts on social media website
+
 # Getting Started
 
   To get started with the feed page website , follow these steps:
